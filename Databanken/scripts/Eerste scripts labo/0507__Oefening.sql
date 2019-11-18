@@ -1,0 +1,6 @@
+USE Modernways;
+CREATE TABLE Metingen(
+Tijdstip DATETIME NOT NULL,
+Grootte SMALLINT UNSIGNED NOT NULL,
+Marge FLOAT(3,2) NOT NULL
+);

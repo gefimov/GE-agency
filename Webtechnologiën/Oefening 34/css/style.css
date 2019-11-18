@@ -1,0 +1,14 @@
+body{
+    font-size: 14px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 18px;
+    
+}

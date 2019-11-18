@@ -1,0 +1,2 @@
+USE Modernways;
+ALTER TABLE Huisdieren ADD COLUMN Baasje CHAR(100) CHAR SET utf8mb4 NOT NULL;

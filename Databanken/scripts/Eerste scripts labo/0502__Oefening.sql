@@ -1,0 +1,6 @@
+USE Modernways;
+CREATE TABLE Huisdieren(
+Naam CHAR(100) CHARSET utf8mb4 NOT NULL,
+Leeftijd SMALLINT UNSIGNED NOT NULL,
+Soort CHAR(50) NOT NULL
+);
