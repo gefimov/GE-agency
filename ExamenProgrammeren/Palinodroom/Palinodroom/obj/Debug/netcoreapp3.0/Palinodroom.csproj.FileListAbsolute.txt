@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\obj\Debug\netcoreapp3.0\Palinodroom.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\obj\Debug\netcoreapp3.0\Palinodroom.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\obj\Debug\netcoreapp3.0\Palinodroom.AssemblyInfo.cs
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\bin\Debug\netcoreapp3.0\Palinodroom.exe
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\bin\Debug\netcoreapp3.0\Palinodroom.deps.json
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\bin\Debug\netcoreapp3.0\Palinodroom.runtimeconfig.json
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\bin\Debug\netcoreapp3.0\Palinodroom.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\bin\Debug\netcoreapp3.0\Palinodroom.dll
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\bin\Debug\netcoreapp3.0\Palinodroom.pdb
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\obj\Debug\netcoreapp3.0\Palinodroom.dll
+C:\Users\georg\source\repos\Palinodroom\Palinodroom\obj\Debug\netcoreapp3.0\Palinodroom.pdb

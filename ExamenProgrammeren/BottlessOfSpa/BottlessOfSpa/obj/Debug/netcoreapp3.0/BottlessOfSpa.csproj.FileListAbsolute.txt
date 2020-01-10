@@ -1,0 +1,11 @@
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\bin\Debug\netcoreapp3.0\BottlessOfSpa.exe
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\bin\Debug\netcoreapp3.0\BottlessOfSpa.deps.json
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\bin\Debug\netcoreapp3.0\BottlessOfSpa.runtimeconfig.json
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\bin\Debug\netcoreapp3.0\BottlessOfSpa.runtimeconfig.dev.json
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\bin\Debug\netcoreapp3.0\BottlessOfSpa.dll
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\bin\Debug\netcoreapp3.0\BottlessOfSpa.pdb
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\obj\Debug\netcoreapp3.0\BottlessOfSpa.csprojAssemblyReference.cache
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\obj\Debug\netcoreapp3.0\BottlessOfSpa.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\obj\Debug\netcoreapp3.0\BottlessOfSpa.AssemblyInfo.cs
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\obj\Debug\netcoreapp3.0\BottlessOfSpa.dll
+C:\Users\georg\Desktop\Hogeschool Georgiy Efimov\ExamenProgrammeren\BottlessOfSpa\BottlessOfSpa\obj\Debug\netcoreapp3.0\BottlessOfSpa.pdb

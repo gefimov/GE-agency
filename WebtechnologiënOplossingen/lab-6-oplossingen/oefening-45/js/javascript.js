@@ -1,0 +1,4 @@
+let mijnArray = new Array("wit", "zwart", "rood");
+
+let mainHeading = document.getElementById("mainHeading");
+mainHeading.textContent = mijnArray[1];
