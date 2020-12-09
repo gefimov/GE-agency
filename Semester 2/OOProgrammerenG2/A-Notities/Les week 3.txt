@@ -1,0 +1,5 @@
+Bij oefening simpele timing
+dus wat we gedana hebben was bij starttime hebben wij beginnen
+timen en bij endtime zijn wij gestopt met timen dus 
+wij hebben getimed hoe lang het had geduurt voor de "for" lus 
+100000 arrays aan te maken

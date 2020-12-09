@@ -1,0 +1,22 @@
+{
+    "producten": [
+        {
+            "naam": "Game of Thrones",
+            "beschrijving": "Het eerste boek van George RR Martin.",
+            "prijs": 37,
+            "stock": 10
+        },
+        {
+            "naam": "Hitchhikers Guide To The Galaxy",
+            "beschrijving": "Een grappige science fiction boek van Douglas Adams",
+            "prijs": 20,
+            "stock": 35
+        },
+        {
+            "naam": "Lord of the Rings",
+            "beschrijving": null,
+            "prijs": 20,
+            "stock": 35
+        }
+    ]
+}

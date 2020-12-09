@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+    color: white;
+    margin: 20px;
+    padding-top: 10px;
+}
+header, section{
+    text-transform: uppercase;
+    padding: 20px;
+    margin: 10px;
+}
+header{
+    background-color: darkcyan;
+}
+section{
+    background-color: deeppink;
+}
+footer{
+    background-color: ghostwhite;
+    color: gray;
+    padding: 20px;
+    margin: 10px;
+}

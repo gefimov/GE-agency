@@ -1,0 +1,7 @@
+-private betekent dat het onder de motorkap is
+-public betekent dat het door iedereen aangevraagd kan worden
+-get betekent als iemand vraagt om een kleur 
+-set betekent als we een kleur instellen aan een bepaalde waarde
+-van boven bij program.cs ook schrijven using "OOP.geometry"
+-Iets public met hoofdletter iets private kleine letter is een algemene
+afspraak dat veel progralmeurs gebruiken
